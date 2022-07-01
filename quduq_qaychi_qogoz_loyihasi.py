@@ -1,5 +1,9 @@
 import random as r
 
+
+# bu yerda yangi kod yozildi!
+
+
 print("""
 \n\n\tAssalomu alaykum komyuter bilan <quduq>, <qaychi>, <qog'oz> o'yiniga xush kelibsiz.
 \tO'yinni  boshlash uchun shartlardan birini tanlang.
